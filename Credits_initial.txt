@@ -1,0 +1,36 @@
+<Title>str_credits_msm
+Raw Zebra
+
+<Title>str_credits_main
+ThePixelMoon
+
+<Title>str_credits_art
+AstralMSM
+Danudaeye
+Skrepmaks
+Gubashlepp
+
+<Title>str_credits_anim
+Hypnoooooo
+Drummi
+T-Amongus
+
+<Title>str_credits_concept
+Danudaeye
+lilsayox3
+mibuxx
+
+<Title>str_credits_thanks
+Silly Peashooter
+msm.fan
+soykanduru
+MarcelSock
+galliumanimations
+K4L3b
+Loohcas
+Zewic Zewcat
+Pizzapeperoni
+Nerxk
+егорегорегорегорегорегорегорегорегорегорегорегор
+
+
