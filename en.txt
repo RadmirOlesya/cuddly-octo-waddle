@@ -275,7 +275,9 @@ Monsters/Monster_brasscuit_rare=Rare Brasscuit
 Monsters/Monster_brasscuit_rare_bio=Rare Brasscuit bio
 
 Monsters/Monster_koodahcane_rare=Rare Koodahcane
+Monsters/Monster_koodahcane_old=Old Koodahcane
 Monsters/Monster_koodahcane_rare_bio=Rare Koodahcane bio
+Monsters/Monster_koodahcane_old_bio=This ancient looking thing is actually more rare than you might think, This has been archived for 4 years straight, and it costs more.
 
 Monsters/Monster_claramel_rare=Rare Claramel
 Monsters/Monster_claramel_rare_bio=Rare Claramel bio
