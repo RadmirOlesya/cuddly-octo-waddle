@@ -1191,6 +1191,7 @@ Monsters/Loodvigg diamonds=1000
 Monsters/Uuduk diamonds=1000
 Monsters/Whimmzies diamonds=1000
 Monsters/Gobbley diamonds=1000
+Monsters/Gobbley_rare diamonds=1000
 -
 decorations:
 Decoration/Decoration_test
