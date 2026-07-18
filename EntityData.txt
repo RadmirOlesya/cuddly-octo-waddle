@@ -410,6 +410,7 @@ Monsters/Monster_dragong_dream coins=500 nightmare 0 666666 coins=500@120@coins=
 
 Monsters/Bonapetite coins=10000 electricity 0 25 coins=0@120@coins=60 encased , 0 0
 Monsters/Congle diamonds=250 air@water@cold 0 10 coins=0@120@coins=60 encased , 0 0
+Monsters/Congle_rare diamonds=250 air@water@cold 0 10 coins=0@120@coins=60 encased , 0 0
 Monsters/Gnarls diamonds=800 plant@earth@water@cold@fire 0 25 coins=0@120@coins=60 encased gnarls,gnarls 0 0
 Monsters/Gnarls_rare diamonds=900 plant@earth@water@cold@fire 0 25 coins=0@120@coins=60 encased gnarls,gnarls 0 0
 Monsters/Krillby diamonds=500 air@earth@cold@fire 0 15 coins=0@120@coins=60 encased , 0 0
