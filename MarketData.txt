@@ -1184,6 +1184,7 @@ Monsters/Gnarls_rare diamonds=1000
 Monsters/Krillby diamonds=1000
 Monsters/Krillby_rare diamonds=1000
 Monsters/Pladdie diamonds=1000
+Monsters/Pladdie_rare diamonds=1000
 Monsters/Buzzinga diamonds=1000
 Monsters/Buzzinga_rare diamonds=1000
 Monsters/Shlep diamonds=1000
