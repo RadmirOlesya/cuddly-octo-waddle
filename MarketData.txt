@@ -1177,6 +1177,7 @@ EgyptPipes
 monsters:
 Monsters/Bonapetite diamonds=1000
 Monsters/Congle diamonds=1000
+Monsters/Congle_rare diamonds=1000
 Monsters/Gnarls diamonds=1000
 Monsters/Gnarls_rare diamonds=1000
 Monsters/Krillby diamonds=1000
