@@ -1175,7 +1175,8 @@ Decoration/Decoration_sign_water
 ;
 EgyptPipes
 monsters:
-Monsters/Bonapetite diamonds=1000
+Monsters/Bonapetite
+Monsters/Bonapetite_rare diamonds=1000
 Monsters/Congle diamonds=1000
 Monsters/Congle_rare diamonds=1000
 Monsters/Gnarls diamonds=1000
