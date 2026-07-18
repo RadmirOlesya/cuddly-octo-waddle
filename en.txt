@@ -1320,7 +1320,9 @@ Monsters/Loodvigg=Loodvigg
 Monsters/Uuduk=Uuduk
 Monsters/Whimmzies=Wimmzies
 Monsters/Gobbley=Gobbleygourd
+Monsters/Gobbley_rare=Rare Gobbleygourd
 
+Monsters/Gobbley_rare_bio=All Gobbleygourds are aeronautically challenged - any time you might have seen one hurtling through the air, it probably just jumped from a high height and hoped for the best. That hasn't stopped one particular rafter of Gobbleygourds from trying to improve their chances by any means possible - losing their snoods, evolving white head feathers to emulate the aquiline ideal and studying textbooks on flight dynamics. It's all wishful thinking, of course - but Rare Gobbleygourds are possessed of an indomitable will that isn't easily discouraged!
 Monsters/Bonapetite_bio=Some musicians tickle the ivories, but the Bona-Petite prefers tickling the ribs. Or perhaps 'having its ribs tickled' is more accurate, depending on which of these two percussionists we're talking about here. Truth is, each is symbiotically connected to the other and equally responsible for delivering punchy kick patterns peppered with a little bottom-end bulk. The duo consists of two monsters, amiably dubbed 'Bona' and 'Petite' by their Wublin pals. The smaller Petite puts the 'riff' in 'midriff,' while the larger Bona grumbles endlessly about indigestion.
 Monsters/Bonapetite_rare_bio='Family' can be a little overwhelming at the best of times, but the duo of Bona and Petite never even get a chance at personal space! The same is true of their fluorescently colored Rare counterparts, who appear gaunt and underfed even after gorging themselves and haranguing each other at every harvest banquet... but they're wise enough never to take each other for granted, and to settle their snits promptly.
 Monsters/Congle_bio=2112-09-04
