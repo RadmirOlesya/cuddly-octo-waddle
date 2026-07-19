@@ -424,6 +424,7 @@ Monsters/Uuduk_rare coins=0 earth@fire@bone 0 10 coins=0@120@coins=60 encased , 
 Monsters/Gobbley coins=0 earth@fire@bone 0 10 coins=0@120@coins=60 encased , 0 0
 Monsters/Gobbley_rare coins=0 earth@fire@bone 0 10 coins=0@120@coins=60 encased , 0 0
 Monsters/Whimmzies coins=0 fire@faerie 0 5 coins=0@120@coins=60 encased , 0 0
+Monsters/Whimmzies_rare coins=0 fire@faerie 0 5 coins=0@120@coins=60 encased , 0 0
 Monsters/Loodvigg coins=0 celestial 0 25 coins=0@120@coins=60 encased , 0 0
 Monsters/Buzzinga coins=0 mythical-o 0 15 coins=0@120@coins=60 encased , 0 0
 Monsters/Buzzinga_rare coins=0 mythical-o 0 15 coins=0@120@coins=60 encased , 0 0
