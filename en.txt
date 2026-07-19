@@ -1323,9 +1323,11 @@ Monsters/Loodvigg=Loodvigg
 Monsters/Uuduk=Uuduk
 Monsters/Uuduk_rare=Rare Uuduk
 Monsters/Whimmzies=Wimmzies
+Monsters/Whimmzies_rare=Rare Wimmzies
 Monsters/Gobbley=Gobbleygourd
 Monsters/Gobbley_rare=Rare Gobbleygourd
 
+Monsters/Whimmzies_rare_bio=ijefewujfsisjerjjjwiorojjio
 Monsters/Shlep_rare_bio=shakey-candy
 Monsters/Pladdie_rare_bio=nullo
 Monsters/Uuduk_rare_bio=Rare Uuduk bio.
