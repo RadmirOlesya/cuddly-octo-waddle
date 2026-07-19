@@ -1194,6 +1194,7 @@ Monsters/Loodvigg diamonds=1000
 Monsters/Uuduk diamonds=1000
 Monsters/Uuduk_rare diamonds=1000
 Monsters/Whimmzies diamonds=1000
+Monsters/Whimmzies_rare diamonds=1000
 Monsters/Gobbley diamonds=1000
 Monsters/Gobbley_rare diamonds=1000
 -
