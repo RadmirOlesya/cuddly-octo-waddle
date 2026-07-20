@@ -2,6 +2,7 @@ City 0 Complete z
 EM 0 Complete z
 Candy 4 Complete NoZeppelin
 Knottshurr 10 Complete NoZeppelin
+Magnetic 4 Complete z
 Organs 12 Complete z
 EgyptPipes 15 Complete z
 Desert 15 Complete z
