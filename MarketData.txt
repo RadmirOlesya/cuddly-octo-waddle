@@ -2,6 +2,12 @@ Arcanum
 monsters:
 Monsters/Monster_kayna_rare_undof
 ;
+
+Magnetical
+monsters:
+Monsters/Monster_quibble_undof
+;
+
 EM
 monsters:
 Monsters/Monster_toejammer
