@@ -1390,7 +1390,9 @@ Monsters/Monster_deedge_dream=dEeDge?
 Monsters/Monster_deedge_dream_bio=Divergent Decent Dirt Disrupt Demolishment
 
 Monsters/Monster_dragong_dream=dRAgOng?
+Monsters/Monster_dragong_rare_dream=RaRRE dRAgOng?
 Monsters/Monster_dragong_dream_bio=Drumbeat Difficult Devout Decadent Distant
+Monsters/Monster_dragong_rare_dream_bio=Bio does not exist or is corrupted. ERR:3
 
 Monsters/Monster_ghazt_dream=GhAZt?
 Monsters/Monster_ghazt_dream_bio=Dishonest Distinct Delight Distant District
