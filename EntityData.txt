@@ -407,6 +407,7 @@ Monsters/Monster_toejammer_dream coins=500 nightmare 0 666666 coins=500@120@coin
 Monsters/Monster_ghazt_dream coins=500 nightmare 0 666666 coins=500@120@coins=60 nightmare , 0 0
 Monsters/VOIDCORN_dream coins=500 nightmare 0 150 coins=500@120@coins=60 nightmare , 0 0
 Monsters/Monster_dragong_dream coins=500 nightmare 0 666666 coins=500@120@coins=60 nightmare , 0 0
+Monsters/Monster_dragong_rare_dream diamonds=1 nightmare 0 666666 coins=500@120@coins=60 nightmare , 0 0
 
 
 Monsters/Bonapetite coins=10000 electricity 0 25 coins=0@120@coins=60 encased , 0 0
