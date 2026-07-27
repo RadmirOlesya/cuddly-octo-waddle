@@ -1368,6 +1368,9 @@ Monsters/Monster_bowgart_bio=Ooh - what a lovely sound! A team player, a Bowgart
 Monsters/Monster_cataliszt=Cataliszt
 Monsters/Monster_cataliszt_bio=The cat who play strings, yet lives a thing as a normal monster, It's haunting melody makes chills go down your spine. But, I wonder, If this island is unknown among all the islands that has been created by the creator, Why did he make this? Why did Catalyzt existed in this island? Among all of those <ERROR_DEMENTED_DREAM_MONSTERS>, Catalyzt is the only one who is normal. Is it me who is experiencing this? Or is it you.
 
+Monsters/Monster_cataliszt_rare=Rare Cataliszt
+Monsters/Monster_cataliszt_rare_bio=why.
+
 Monsters/Monster_mammott_dream=maMmOTT?
 Monsters/Monster_mammott_dream_bio=Dismemberment Daylight Defiant Downcast Decent
 
