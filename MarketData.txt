@@ -1083,6 +1083,7 @@ Decoration/Decoration_sign_water
 dream
 monsters:
 Monsters/Monster_cataliszt
+Monsters/Monster_cataliszt_rare
 Monsters/Monster_mammott_dream
 Monsters/Monster_toejammer_dream
 Monsters/Monster_likho_dream
