@@ -372,6 +372,8 @@ Monsters/Monster_dipster_6=La
 Monsters/Monster_dipster_6_bio=<ref>DipsterBio
 Monsters/Monster_dipster_7=Ti
 Monsters/Monster_dipster_7_bio=<ref>DipsterBio
+Monsters/Monster_dipster_7_rare=Rare Ti
+Monsters/Monster_dipster_7_rare_bio=<ref>DipsterBio
 
 Monsters/Monster_knife=Banchi
 Monsters/Monster_knife_bio=Banchi is the beloved mythical of Candy Island. For years untold, the Banchi have been making the popular glutinous rice snack that is the monster-mochi, through which they also play their unique song. A rumor says that they use a secret ingredient to make their monster-mochi make a sound on impact, but no-one really knows what it is. Some speculations suggest that a certain feline spectral figure helped them out- someone who Banchi refers to as family.
