@@ -321,6 +321,8 @@ Decoration/Decoration_gbluff coins=5000 xpWhenPlaced:50000 0 0
 Decoration/Decoration_knott coins=20000 xpWhenPlaced:100 0 0
 Decoration/Decoration_mors coins=15000 xpWhenPlaced:100 0 0
 
+Decoration/Decoration_zworrafe diamonds=150 xpWhenPlaced:10000 0 0
+
 Decoration/Decoration_sign_air coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_candy coins=1500 xpWhenPlaced:100 0 0
 Decoration/Decoration_sign_celestial coins=1500 xpWhenPlaced:100 0 0
