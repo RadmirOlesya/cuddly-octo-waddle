@@ -236,6 +236,7 @@ Monsters/Monster_dipster_4 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dip
 Monsters/Monster_dipster_5 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,sol 0 0
 Monsters/Monster_dipster_6 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,la 0 0
 Monsters/Monster_dipster_7 diamonds=5 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti 0 0
+Monsters/Monster_dipster_7_rare diamonds=10 dipster-o 1800 10 coins=5@120@coins=60 Dipster ,ti 0 0
 
 Structures/Structure_breeding coins=500,diamonds=75 4 0
 Structures/Structure_breeding_city coins=500,coins=10000,diamonds=100,diamonds=130,diamonds=200 4 0
