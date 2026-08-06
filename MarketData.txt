@@ -813,6 +813,7 @@ Monsters/Monster_marshflamo_rare
 Monsters/Monster_brasscuit_rare
 Monsters/Monster_koodahcane_rare
 Monsters/Monster_claramel_rare
+Monsters/Monster_dipster_7_rare
 -
 decorations:
 Decoration/Decoration_test
