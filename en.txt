@@ -160,6 +160,8 @@ Monsters/Monster_wibbler_young=Young Wubbox
 Monsters/Monster_wibbler_young_bio=Young Wubbox Bio
 
 Decoration/Decoration_sign_air=Air Sign
+Decoration/Decoration_zworrafe=Zworrafe
+Decoration/Decoration_zworrafe_bio=This surprising, quite "weird" giraffe came from a hole! This creature was burping many times, just to try to fit in with other monsters, but, it didnt think its "singing" was good, so it stopped. Other than that, its dark pink, what???
 Decoration/Decoration_sign_candy=Candy Sign
 Decoration/Decoration_sign_celestial=Celestial Sign
 Decoration/Decoration_sign_cold=Cold Sign
