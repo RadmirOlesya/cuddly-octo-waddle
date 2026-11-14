@@ -15,7 +15,8 @@ Monsters/Monster_mammott_young_bio=The abominamble snowman? More like the adorab
 Monsters/Monster_tweedle_young=Young Tweedle
 Monsters/Monster_tweedle_young_bio=Tweedles are well known to be airy and aloof, and the youngest members of the species are no different. When not spreading chitchat around the Floating City, these babbling birds preen themselves nonstop, hoping to be the most "fantastic feathered fling" of the day. 
 Monsters/Monster_cottonly=Cottonly
-Monsters/Monster_cottonly_bio=Cottonly Bio.
+Monsters/Monster_cottonly_bio=Monster Handler ???? : This weird creature has been found at the back of "Candy Island", the cotton has been sticking here for 3 whole years, and, instead of bugs eating it, they controlled it, its attariwjeirioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioio (Bio has ben cut out, please be cautious when trying to breed the creature.)
+Monster Handler Radmir : please dont try to eat this creature tho seriously, it has thousands(?) of bugs inside, and its also expired
 Monsters/Monster_toejammer_young=Young Toe Jammer
 Monsters/Monster_toejammer_young_bio=Effervescent and bubbly, tropical-demeanored Young Toe Jammers are always pleasant playmates for the other monsters. At times, situations can get a little sticky when a tossed ball finds itself lodged in the gelatinous body of this tot, but that's no match for some well executed laughter therapy.
 Monsters/Monster_noggin_young=Young Noggin
