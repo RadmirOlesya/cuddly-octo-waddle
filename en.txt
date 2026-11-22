@@ -298,6 +298,9 @@ Monsters/Monster_dandidoo_rare_bio=Rare Dandiduo bio
 Monsters/Monster_cranile=Cranile
 Monsters/Monster_cranile_bio=This gem-ladden double elemental sees no fear - in fact it can barely see a thing at all! Relying on its trusty “see-pickles” for much of its still quite limited  vision and hearing, the Cranile is a wacky creature. When not erratically stomping around, they’re often seen racing against nobody at all, or devouring rocks. It’s like Handmond - it genuinely doesn’t feel like it needs lengthening past that.
 
+Monsters/Monster_rozele=Rozele
+Monsters/Monster_rozele_bio=Rozele bio.
+
 Monsters/Monster_cranile_rare=Rare Cranile
 Monsters/Monster_cranile_rare_bio=Unlike the Common Cranile, the Rare Cranile can actually see! This is because of hygiene, its permanent on all of Rare Cranile's, even if you would find another Rare Cranile into another Terra Of Organs island, it would always have 2 eyes! This is more interesting, because if it would be an ACTUAL Rare monster, then it would sometimes have a single eye. Surprisingly this is a brave monster, even with 2 eyes! Instead of crystal rocks stomping, its a weird slimy like object that has another object inside, its like those fridges you would see everyday. Dont ask why i have those fridges.
 
